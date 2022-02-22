@@ -1,0 +1,111 @@
+* {
+    font-family: Arial;
+    text-align: center;
+  }
+
+  body {
+    background-color: #FAEFE9;
+  }
+  
+  h1 {
+    font-family: Montserrat, Arial;
+    font-size: 25px;
+    padding-top: 50px;
+  }
+  
+  h2 {
+    font-family: monospace;
+    font-size: 15px;
+  }
+
+  a {
+      font-family: monospace;
+      color: black;
+  }
+
+  table {
+      margin: 50px auto;
+      background-color: #D0E1D6;;
+      padding: 50px;
+      border-radius: 50px;
+      color: black;
+  }
+
+  th, td {
+      padding: 20px;
+      text-align: center;
+      border: none;
+      margin: 0px;
+  }
+
+  th {
+      font-family: Montserrat, Arial;
+        font-weight: bold;
+      font-size: 20px;
+      text-transform: uppercase;
+      letter-spacing: .4em
+  }
+  
+  
+  .code {
+    font-family: monospace;
+    color: black;
+    background-color: #FFF9F6;
+    border-radius: 50px;
+  }
+  
+  .color {
+    color: #A5BDAD;
+  }
+  
+  .font {
+    font-family: Georgia;
+  }
+
+  .bold {
+      font-weight: bold;
+  }
+
+  .upper {
+      text-transform: uppercase;
+  }
+
+  .underline {
+      text-decoration: underline;
+  }
+
+  .italic {
+      font-style: italic;
+  }
+
+  .size {
+      font-size: 10px;
+  }
+
+  .space {
+      letter-spacing: .5em;
+  }
+
+  .bgcolor {
+      background-color: #A5BDAD;
+  }
+
+  footer {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+    color: #FAEFE9;
+    padding: 10px;
+    margin-top: 70px;
+}
+
+footer p {
+    font-size: 14px;
+    font-family: monospace;
+}
+
+#sparkles p {
+    font-size: 12px;
+    color: #A5BDAD;
+}
